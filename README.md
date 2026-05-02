@@ -33,10 +33,11 @@
 ---
 
 ### 2. Аналитика ИИ-вакансий
-- **Стек:** Python (pandas, matplotlib)
+- **Стек:** Python (pandas, matplotlib, seaborn)
 - **Описание:** сбор и анализ более 500 вакансий в сфере ИИ, выделение топ-10 навыков, визуализация требований работодателей.
 - **Ссылка:** https://colab.research.google.com/drive/1NgK100f4kK7-IUiUrq_A3lksEOIhT1WK?usp=sharing
-
+- **Описание:** Анализ рынка на основе открытых источников (более 1.6 млн строк). Машинное обучение модели. Отбор вакансий, связанных с ИИ.
+- **Ссылка:** https://colab.research.google.com/drive/1_qSJnfg0MZL1hLJdd-KKFlFKhD7YVnL4?usp=sharing
 ---
 
 ### 3. Модель регрессии + классификация
